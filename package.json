@@ -7,7 +7,7 @@
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "bin": {
-    "gitbuddy": "./dist/index.js"
+    "bsweep": "./dist/branch-sweep-terminate.js"
   },
   "files": [
     "dist",
